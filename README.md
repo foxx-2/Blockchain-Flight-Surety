@@ -125,5 +125,3 @@ So if you have created two insurances in the network,
 and you want to search for the first one, then use `1` as Insurance Id in the `Get Insurance` form. 
 
 Same applies to `Buy Insurance`. You need to use integer id of the flight. For first flight in the system the id will be `1`.
-
-P.S. Sorry for all that.
